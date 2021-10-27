@@ -4,3 +4,11 @@
     box-sizing: border-box;
 }
 
+.icons-img {
+    font-size: 40px;
+    text-align: center;
+}
+
+.icons-title {
+    text-transform: uppercase;
+}

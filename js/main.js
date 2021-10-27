@@ -117,11 +117,11 @@ for (let i = 0; i < cards.length; i++) {
     containerIcons.innerHTML += `
     <div class="col">
       <div class="card h-100 shadow-sm">
-        <div class="card-img-top">
+        <div class="card-img-top icons-img">
           <i class="${family} ${prefix + name}" style="color: ${colori}"></i>
         </div>
         <div class="card-body">
-          <div class="card-title text-center">${name}</div>
+          <div class="card-title text-center icons-title">${name}</div>
         </div>
       </div>
     </div>`;
